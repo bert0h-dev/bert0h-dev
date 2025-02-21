@@ -11,7 +11,7 @@
 import SoftwareDeveloper from "HumbertoMorales1416";
 
 class Bio extends SoftwareDeveloper {
-  name = "Jesus Humberto Morales";
+  name = "Jesús Humberto Morales Mojica";
   title = "Software Engineer";
   company = "🚚 GM Transport | Remote";
   location = "Rosarito, Baja California";
@@ -54,4 +54,4 @@ class Learning extends SoftwareDeveloper {
 
 ##
 
-<p align="right"> Last Edited on: 24/01/2025 </p>
+<p align="right"> Last Edited on: 21/02/2025 </p>
