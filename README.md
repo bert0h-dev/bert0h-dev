@@ -18,7 +18,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages = ["HTML", "CSS", "JavaScript - Basic", "C#", "WLanguage"];
+  languages = ["HTML", "SCSS/CSS", "JavaScript - Basic", "C#", "WLanguage"];
   databases = ["T-SQL"];
   frameworks = [".NET"];
   version = ["Git", "GitHub", "TortoiseSVN"];
