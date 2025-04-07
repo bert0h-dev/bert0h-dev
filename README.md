@@ -45,8 +45,8 @@ class Learning extends SoftwareDeveloper {
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HumbertoMorales1416&count_private=true&show_icons=true&hide_rank=false&hide=stars&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoMorales1416&layout=compact&langs_count=6)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bert0h-dev&count_private=true&show_icons=true&hide_rank=false&hide=stars&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&langs_count=6)<br/>
 
 <!--## 🗂️ Repositories
 
