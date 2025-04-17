@@ -43,15 +43,16 @@ class Learning extends SoftwareDeveloper {
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HumbertoMorales1416)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HumbertoMorales1416)
 
+## ⚡ Actividad reciente
+<!--STRAT_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=bert0h-dev&count_private=true&show_icons=true&hide_rank=false&hide=stars&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&langs_count=6)<br/>
 
-<!--## 🗂️ Repositories
+<!--RECENT_ACTIVITY:last_update-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)  -->
-
-##
-
-<p align="right"> Last Edited on: 21/02/2025 </p>
+<!--RECENT_ACTIVITY:last_update_end-->
