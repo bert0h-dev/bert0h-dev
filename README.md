@@ -45,6 +45,12 @@ class Learning extends SoftwareDeveloper {
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [jrohitofficial/developer-portfolios](https://github.com/jrohitofficial/developer-portfolios)<br>
+2. ⭐ Starred [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+3. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
+4. ⭐ Starred [angelomarangon/anma-medical-frontend](https://github.com/angelomarangon/anma-medical-frontend)<br>
+5. ⭐ Starred [kanboard/kanboard](https://github.com/kanboard/kanboard)<br>
+<!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
 
@@ -52,3 +58,5 @@ class Learning extends SoftwareDeveloper {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&langs_count=6)<br/>
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, April 17th, 2025, 5:26:06 AM
+<!--RECENT_ACTIVITY:last_update_end-->
