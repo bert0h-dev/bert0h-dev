@@ -44,9 +44,7 @@ class Learning extends SoftwareDeveloper {
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HumbertoMorales1416)
 
 ## ⚡ Actividad reciente
-<!--STRAT_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 ## 📊 Stats
 
@@ -54,5 +52,3 @@ class Learning extends SoftwareDeveloper {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&langs_count=6)<br/>
 
 <!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
