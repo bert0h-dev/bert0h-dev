@@ -22,53 +22,12 @@ jobs:
           GH_USERNAME: bert0h-dev
           CONFIG_FILE: 'sample.yml'
 
-      # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en el README
-      - name: 🛠️ Reemplazar 'nombre-del-repo' por el último proyecto creado
-        run: |
-          NEW_REPO=$(grep "🎯 Empezó un nuevo proyecto" README.md | head -n 1 | sed -E 's/.*proyecto: ([^ .]+).*/\1/')
-          if [ ! -z "$NEW_REPO" ]; then
-            echo "Nuevo proyecto detectado: $NEW_REPO"
-            sed -i "s/nombre-del-repo/$NEW_REPO/" README.md
-          else
-            echo "No se detectó ningún nuevo proyecto en la actividad reciente."
-          fi
-
       # 📊 GitHub Stats y Lenguajes
       - name: 📊 Generate GitHub Stats SVGs
         run: |
           mkdir -p assets
           curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=bert0h-dev&show_icons=true&theme=tokyonight"
           curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&theme=tokyonight"
-
-      # 📈 Gráfica de actividad
-      - name: 📈 Metrics – Gráfico de actividad
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/graph.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          config_timezone: America/Mexico_City
-          config_output: svg
-          config_background: transparent
-
-      # 🗓️ Resumen semanal
-      - name: 🗓️ Metrics – Weekly Activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: activity
-          config_timezone: America/Mexico_City
-
-      # 🧠 Hábitos de codificación
-      - name: 🧠 Metrics – Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: habits
-          config_timezone: America/Mexico_City
 
       # 🚀 Repositorios principales
       - name: 🚀 Metrics – Top Repos
@@ -78,25 +37,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           repositories_forks: false
-
-      # 🕒 Última actualización con fondo transparente
-      - name: 🕒 Metrics – Última actualización
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/updated.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: metadata
-          config_timezone: America/Mexico_City
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_lines: 3
-          config_output: svg
-          config_twemoji: yes
-          config_display: large
-          config_order: metadata
-          config_background: transparent
-          config_base: header
-          config_padding: 0, 0
 
       # 🚀 Commit y Push final
       - name: 🚀 Commit & Push (con rebase)
