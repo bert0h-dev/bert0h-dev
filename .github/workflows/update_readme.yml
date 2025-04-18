@@ -99,10 +99,11 @@ jobs:
           config_padding: 0, 0
 
       # 🚀 Commit y Push final
-      - name: 🚀 Commit & Push changes
+      - name: 🚀 Commit & Push (con rebase)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "📈 update: README con actividad, stats y nuevo proyecto 🔥"
+          git pull --rebase origin main
           git push
