@@ -1,18 +1,103 @@
-name: Update README
+name: 📌 Update GitHub Profile
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '0 6 * * *'
   workflow_dispatch:
-  
+
 jobs:
-  build:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: bert0h-dev/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🧾 Checkout repo
+        uses: actions/checkout@v3
+
+      # Actividad reciente con mensajes personalizados
+      - name: 📌 Update recent GitHub activity
+        uses: Readme-Workflows/recent-activity@v2.3.0
         with:
-          CONFIG_FILE: 'sample.yml'
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          messages: |
+            comments: "💬 Comentó en {ID} del repositorio {REPO}"
+            push: "⬆️ Subió {AMOUNT} commit(s) a {REPO}"
+            issue_opened: "🚨 Abrió un nuevo issue {ID} en {REPO}"
+            issue_closed: "✅ Cerró el issue {ID} en {REPO}"
+            pr_opened: "📬 Abrió un pull request {ID} en {REPO}"
+            pr_closed: "❌ Cerró el pull request {ID} en {REPO}"
+            pr_merged: "🎉 Hizo merge del pull request {ID} en {REPO}"
+            create_repo: "🎯 Empezó un nuevo proyecto: {REPO}. ¡A romperla! 🔥"
+            fork_repo: "🍴 Hizo fork de {REPO} como {FORK}"
+            wiki_create: "📖 Creó una página wiki {WIKI} en {REPO}"
+            added_member: "🤝 Se unió como colaborador a {REPO}"
+            changes_approved: "👍 Aprobó los cambios en {ID} de {REPO}"
+            changes_requested: "🔍 Solicitó cambios en {ID} de {REPO}"
+            new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
+            new_star: "⭐ Dio estrella a {REPO}"
+
+      # GitHub Stats
+      - name: 📊 Generate GitHub Stats SVGs
+        run: |
+          mkdir -p assets
+          curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=bert0h-dev&show_icons=true&theme=tokyonight"
+          curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&theme=tokyonight"
+
+      # Gráfica de actividad
+      - name: 📈 Generate Contribution Graph SVG
+        run: |
+          curl -o assets/graph.svg "https://github-readme-activity-graph.cyclic.app/graph?username=bert0h-dev&theme=tokyo-night"
+
+      # Resumen semanal
+      - name: 🗓️ Metrics – Weekly Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity
+          config_timezone: America/Mexico_City
+
+      # Hábitos de código
+      - name: 🧠 Metrics – Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: habits
+          config_timezone: America/Mexico_City
+
+      # Principales repositorios
+      - name: 🚀 Metrics – Top Repos
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          repositories_forks: false
+
+      # Última actualización
+      - name: 🕒 Metrics – Última actualización
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/updated.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: metadata
+          config_timezone: America/Mexico_City
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_lines: 3
+          config_output: svg
+          config_twemoji: yes
+          config_display: large
+          config_order: metadata
+          config_background: transparent
+          config_base: header
+          config_padding: 0, 0
+
+      # Push si hay cambios
+      - name: 🚀 Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 update: README con actividad, stats y badges 🔥"
+          git push
