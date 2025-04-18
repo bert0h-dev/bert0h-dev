@@ -23,7 +23,7 @@ Fan de crear soluciones reales con tecnología. ¡Siempre aprendiendo algo nuevo
 
 🔽 Últimos movimientos técnicos:
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 <!--END_SECTION:activity-->
 
 ---
