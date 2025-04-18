@@ -41,9 +41,16 @@ jobs:
           curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&theme=tokyonight"
 
       # 📈 Gráfica de actividad
-      - name: 📈 Generate Contribution Graph SVG
-        run: |
-          curl -o assets/graph.svg "https://github-readme-activity-graph.cyclic.app/graph?username=bert0h-dev&theme=tokyo-night"
+      - name: 📈 Metrics – Gráfico de actividad
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          config_timezone: America/Mexico_City
+          config_output: svg
+          config_background: transparent
 
       # 🗓️ Resumen semanal
       - name: 🗓️ Metrics – Weekly Activity
