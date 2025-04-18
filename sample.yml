@@ -1,0 +1,31 @@
+settings:
+  commit_msg: "⚡ Update README with the recent activity"
+  max_lines: 5
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+00:00"
+    text: "Last Updated: {DATE}"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "readme-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
+  ignored_repos:
+    - username/repo
+messages:
+  comments: "💬 Comentó en {ID} del repositorio {REPO}"
+  push: "⬆️ Subió {AMOUNT} commit(s) a {REPO}"
+  issue_opened: "🚨 Abrió un nuevo issue {ID} en {REPO}"
+  issue_closed: "✅ Cerró el issue {ID} en {REPO}"
+  pr_opened: "📬 Abrió un pull request {ID} en {REPO}"
+  pr_closed: "❌ Cerró el pull request {ID} en {REPO}"
+  pr_merged: "🎉 Hizo merge del pull request {ID} en {REPO}"
+  create_repo: "🎯 Empezó un nuevo proyecto: {REPO}. ¡A romperla! 🔥"
+  fork_repo: "🍴 Hizo fork de {REPO} como {FORK}"
+  wiki_create: "📖 Creó una página wiki {WIKI} en {REPO}"
+  added_member: "🤝 Se unió como colaborador a {REPO}"
+  changes_approved: "👍 Aprobó los cambios en {ID} de {REPO}"
+  changes_requested: "🔍 Solicitó cambios en {ID} de {REPO}"
+  new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
+  new_star: "⭐ Dio estrella a {REPO}"
