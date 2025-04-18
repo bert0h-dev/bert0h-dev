@@ -15,7 +15,7 @@ Fan de crear soluciones reales con tecnología. ¡Siempre aprendiendo algo nuevo
 
 ![Nuevo Proyecto](./assets/nuevo-proyecto-badge.png)
 
-🎯 Empezó un nuevo proyecto: `nombre-del-repo`. ¡A romperla! 🔥
+🎯 Empezó un nuevo proyecto: ``nombre-del-repo``. ¡A romperla! 🔥
 
 ---
 
