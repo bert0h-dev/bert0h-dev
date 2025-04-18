@@ -44,6 +44,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "📈 update: README con actividad, stats y nuevo proyecto 🔥"
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 Update README con actividad 🔥"
           git pull --rebase origin main
           git push
