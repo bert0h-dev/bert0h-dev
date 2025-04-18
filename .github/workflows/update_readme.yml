@@ -2,7 +2,7 @@ name: 📌 Update GitHub Profile
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Corre diario a las 6am
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
