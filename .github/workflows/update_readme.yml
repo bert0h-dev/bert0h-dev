@@ -15,7 +15,7 @@ jobs:
 
       # 📌 Actividad reciente con mensajes personalizados
       - name: 📌 Update recent GitHub activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: JamesIves/github-activity-readme@v0.2.0
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           messages: |
@@ -34,8 +34,8 @@ jobs:
             new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
             new_star: "⭐ Dio estrella a {REPO}"
 
-      # 🛠️ Reemplazo dinámico del nombre del último proyecto en el README
-      - name: 🛠️ Reemplazar placeholder 'nombre-del-repo' por el nombre real del último proyecto
+      # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en el README
+      - name: 🛠️ Reemplazar 'nombre-del-repo' por el último proyecto creado
         run: |
           NEW_REPO=$(grep "🎯 Empezó un nuevo proyecto" README.md | head -n 1 | sed -E 's/.*proyecto: ([^ .]+).*/\1/')
           if [ ! -z "$NEW_REPO" ]; then
@@ -66,7 +66,7 @@ jobs:
           base: activity
           config_timezone: America/Mexico_City
 
-      # 🧠 Hábitos de código
+      # 🧠 Hábitos de codificación
       - name: 🧠 Metrics – Habits
         uses: lowlighter/metrics@latest
         with:
@@ -75,7 +75,7 @@ jobs:
           base: habits
           config_timezone: America/Mexico_City
 
-      # 🚀 Principales repositorios
+      # 🚀 Repositorios principales
       - name: 🚀 Metrics – Top Repos
         uses: lowlighter/metrics@latest
         with:
@@ -84,7 +84,7 @@ jobs:
           base: repositories
           repositories_forks: false
 
-      # 🕒 Última actualización
+      # 🕒 Última actualización con fondo transparente
       - name: 🕒 Metrics – Última actualización
         uses: lowlighter/metrics@latest
         with:
@@ -103,11 +103,11 @@ jobs:
           config_base: header
           config_padding: 0, 0
 
-      # 🚀 Push de los cambios generados
+      # 🚀 Commit y Push final
       - name: 🚀 Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "📈 update: README con actividad, stats y badges 🔥"
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 update: README con actividad, stats y nuevo proyecto 🔥"
           git push
