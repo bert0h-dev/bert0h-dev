@@ -35,6 +35,20 @@ jobs:
             new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
             new_star: "⭐ Dio estrella a {REPO}"
 
+      # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en README.md
+      - name: 🛠️ Reemplazar placeholder 'nombre-del-repo' por el nombre real del último proyecto
+        run: |
+          # Extrae la última línea con '🎯 Empezó un nuevo proyecto' de la actividad reciente
+          NEW_REPO=$(grep "🎯 Empezó un nuevo proyecto" README.md | head -n 1 | sed -E 's/.*proyecto: ([^ .]+).*/\1/')
+
+          # Solo reemplaza si encontró algo
+          if [ ! -z "$NEW_REPO" ]; then
+            echo "Nuevo proyecto detectado: $NEW_REPO"
+            sed -i "s/nombre-del-repo/$NEW_REPO/" README.md
+          else
+            echo "No se detectó ningún nuevo proyecto en la actividad reciente."
+          fi
+
       # GitHub Stats
       - name: 📊 Generate GitHub Stats SVGs
         run: |
