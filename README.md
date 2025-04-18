@@ -48,11 +48,11 @@ class Learning extends SoftwareDeveloper {
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react). ¡A romperla! 🔥<br>
-2. ⭐ Dio estrella a [django-bridge/django-bridge](https://github.com/django-bridge/django-bridge)<br>
-3. ⭐ Dio estrella a [USEPA/haztrak](https://github.com/USEPA/haztrak)<br>
-4. ⭐ Dio estrella a [Almudena-Rendon/github-profile](https://github.com/Almudena-Rendon/github-profile)<br>
-5. ⭐ Dio estrella a [SashenJayathilaka/Project-Management-App](https://github.com/SashenJayathilaka/Project-Management-App)<br>
+1. ⬆️ Subió 1 commit(s) a [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
+2. ⬆️ Subió 1 commit(s) a [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
+3. ⬆️ Subió 1 commit(s) a [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
+4. ⬆️ Subió 1 commit(s) a [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
+5. ⬆️ Subió 1 commit(s) a [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -66,5 +66,5 @@ class Learning extends SoftwareDeveloper {
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Friday, April 18th, 2025, 12:54:55 AM
+Ultima actualización: Friday, April 18th, 2025, 3:39:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
