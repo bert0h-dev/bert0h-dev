@@ -2,7 +2,7 @@ name: 📌 Update GitHub Profile
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 * * *'  # Corre diario a las 6am
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,9 @@ jobs:
       - name: 🧾 Checkout repo
         uses: actions/checkout@v3
 
-      # Actividad reciente con mensajes personalizados
+      # 📌 Actividad reciente con mensajes personalizados
       - name: 📌 Update recent GitHub activity
-        uses: Readme-Workflows/recent-activity@v2.3.0
+        uses: jamesgeorge007/github-activity-readme@v0.2.0
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           messages: |
@@ -28,20 +28,16 @@ jobs:
             pr_merged: "🎉 Hizo merge del pull request {ID} en {REPO}"
             create_repo: "🎯 Empezó un nuevo proyecto: {REPO}. ¡A romperla! 🔥"
             fork_repo: "🍴 Hizo fork de {REPO} como {FORK}"
-            wiki_create: "📖 Creó una página wiki {WIKI} en {REPO}"
             added_member: "🤝 Se unió como colaborador a {REPO}"
             changes_approved: "👍 Aprobó los cambios en {ID} de {REPO}"
             changes_requested: "🔍 Solicitó cambios en {ID} de {REPO}"
             new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
             new_star: "⭐ Dio estrella a {REPO}"
 
-      # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en README.md
+      # 🛠️ Reemplazo dinámico del nombre del último proyecto en el README
       - name: 🛠️ Reemplazar placeholder 'nombre-del-repo' por el nombre real del último proyecto
         run: |
-          # Extrae la última línea con '🎯 Empezó un nuevo proyecto' de la actividad reciente
           NEW_REPO=$(grep "🎯 Empezó un nuevo proyecto" README.md | head -n 1 | sed -E 's/.*proyecto: ([^ .]+).*/\1/')
-
-          # Solo reemplaza si encontró algo
           if [ ! -z "$NEW_REPO" ]; then
             echo "Nuevo proyecto detectado: $NEW_REPO"
             sed -i "s/nombre-del-repo/$NEW_REPO/" README.md
@@ -49,19 +45,19 @@ jobs:
             echo "No se detectó ningún nuevo proyecto en la actividad reciente."
           fi
 
-      # GitHub Stats
+      # 📊 GitHub Stats y Lenguajes
       - name: 📊 Generate GitHub Stats SVGs
         run: |
           mkdir -p assets
           curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=bert0h-dev&show_icons=true&theme=tokyonight"
           curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&theme=tokyonight"
 
-      # Gráfica de actividad
+      # 📈 Gráfica de actividad
       - name: 📈 Generate Contribution Graph SVG
         run: |
           curl -o assets/graph.svg "https://github-readme-activity-graph.cyclic.app/graph?username=bert0h-dev&theme=tokyo-night"
 
-      # Resumen semanal
+      # 🗓️ Resumen semanal
       - name: 🗓️ Metrics – Weekly Activity
         uses: lowlighter/metrics@latest
         with:
@@ -70,7 +66,7 @@ jobs:
           base: activity
           config_timezone: America/Mexico_City
 
-      # Hábitos de código
+      # 🧠 Hábitos de código
       - name: 🧠 Metrics – Habits
         uses: lowlighter/metrics@latest
         with:
@@ -79,7 +75,7 @@ jobs:
           base: habits
           config_timezone: America/Mexico_City
 
-      # Principales repositorios
+      # 🚀 Principales repositorios
       - name: 🚀 Metrics – Top Repos
         uses: lowlighter/metrics@latest
         with:
@@ -88,7 +84,7 @@ jobs:
           base: repositories
           repositories_forks: false
 
-      # Última actualización
+      # 🕒 Última actualización
       - name: 🕒 Metrics – Última actualización
         uses: lowlighter/metrics@latest
         with:
@@ -107,7 +103,7 @@ jobs:
           config_base: header
           config_padding: 0, 0
 
-      # Push si hay cambios
+      # 🚀 Push de los cambios generados
       - name: 🚀 Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
