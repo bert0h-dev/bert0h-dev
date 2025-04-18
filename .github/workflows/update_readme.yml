@@ -19,6 +19,7 @@ jobs:
         with:
           GH_USERNAME: bert0h-dev
           CONFIG_FILE: 'sample.yml'
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en el README
       - name: 🛠️ Reemplazar 'nombre-del-repo' por el último proyecto creado
