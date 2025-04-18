@@ -24,6 +24,12 @@ Fan de crear soluciones reales con tecnología. ¡Siempre aprendiendo algo nuevo
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
+1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react). ¡A romperla! 🔥<br>
+2. ⭐ Dio estrella a [django-bridge/django-bridge](https://github.com/django-bridge/django-bridge)<br>
+3. ⭐ Dio estrella a [USEPA/haztrak](https://github.com/USEPA/haztrak)<br>
+4. ⭐ Dio estrella a [Almudena-Rendon/github-profile](https://github.com/Almudena-Rendon/github-profile)<br>
+5. ⭐ Dio estrella a [SashenJayathilaka/Project-Management-App](https://github.com/SashenJayathilaka/Project-Management-App)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--END_SECTION:activity-->
 
 ---
