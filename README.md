@@ -45,11 +45,11 @@ class Learning extends SoftwareDeveloper {
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
-2. ⬆️ Pushed 1 commit(s) to [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
-3. ⬆️ Pushed 1 commit(s) to [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
-4. ⬆️ Pushed 1 commit(s) to [bert0h-dev/bert0h-dev](https://github.com/bert0h-dev/bert0h-dev)<br>
-5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+1. ⭐ Starred [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)<br>
+2. ⭐ Starred [opf/openproject](https://github.com/opf/openproject)<br>
+3. ⭐ Starred [matorral-project/alameda-api](https://github.com/matorral-project/alameda-api)<br>
+4. ⭐ Starred [AshishS-1123/ClickUp-Clone](https://github.com/AshishS-1123/ClickUp-Clone)<br>
+5. ⭐ Starred [Physiix/topsi-project-manager](https://github.com/Physiix/topsi-project-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -58,5 +58,5 @@ class Learning extends SoftwareDeveloper {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert0h-dev&layout=compact&langs_count=6)<br/>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 18th, 2025, 2:44:02 AM
+Last Updated: Friday, April 18th, 2025, 5:00:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
