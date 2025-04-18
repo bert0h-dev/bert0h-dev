@@ -15,24 +15,10 @@ jobs:
 
       # 📌 Actividad reciente con mensajes personalizados
       - name: 📌 Update recent GitHub activity
-        uses: JamesIves/github-activity-readme@v0.2.0
+        uses: Readme-Workflows/recent-activity@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          messages: |
-            comments: "💬 Comentó en {ID} del repositorio {REPO}"
-            push: "⬆️ Subió {AMOUNT} commit(s) a {REPO}"
-            issue_opened: "🚨 Abrió un nuevo issue {ID} en {REPO}"
-            issue_closed: "✅ Cerró el issue {ID} en {REPO}"
-            pr_opened: "📬 Abrió un pull request {ID} en {REPO}"
-            pr_closed: "❌ Cerró el pull request {ID} en {REPO}"
-            pr_merged: "🎉 Hizo merge del pull request {ID} en {REPO}"
-            create_repo: "🎯 Empezó un nuevo proyecto: {REPO}. ¡A romperla! 🔥"
-            fork_repo: "🍴 Hizo fork de {REPO} como {FORK}"
-            added_member: "🤝 Se unió como colaborador a {REPO}"
-            changes_approved: "👍 Aprobó los cambios en {ID} de {REPO}"
-            changes_requested: "🔍 Solicitó cambios en {ID} de {REPO}"
-            new_release: "🚀 Lanzó una nueva versión {ID} en {REPO}"
-            new_star: "⭐ Dio estrella a {REPO}"
+          CONFIG_FILE: 'sample.yml'
 
       # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en el README
       - name: 🛠️ Reemplazar 'nombre-del-repo' por el último proyecto creado
