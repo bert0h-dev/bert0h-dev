@@ -16,9 +16,8 @@ jobs:
       # 📌 Actividad reciente con mensajes personalizados
       - name: 📌 Update recent GitHub activity
         uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: bert0h-dev
           CONFIG_FILE: 'sample.yml'
 
       # 🛠️ Reemplazo dinámico del nombre del nuevo proyecto en el README
