@@ -48,9 +48,9 @@ class Learning extends SoftwareDeveloper {
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token). ¡A romperla! 🔥<br>
+1. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token)<br>
 2. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
+3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token). ¡A romperla! 🔥<br>
 4. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
 5. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -66,5 +66,5 @@ class Learning extends SoftwareDeveloper {
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, April 19th, 2025, 5:27:35 PM
+Ultima actualización: Sunday, April 20th, 2025, 5:41:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
