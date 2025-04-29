@@ -48,10 +48,10 @@ class Learning extends SoftwareDeveloper {
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
-4. 🎯 Empezó un nuevo proyecto: [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token). ¡A romperla! 🔥<br>
+1. ⭐ Dio estrella a [jhan07-sanchez/My_Red_Social](https://github.com/jhan07-sanchez/My_Red_Social)<br>
+2. ⭐ Dio estrella a [RichardVargasPilarte/Hotel_api_v2](https://github.com/RichardVargasPilarte/Hotel_api_v2)<br>
+3. ⭐ Dio estrella a [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
+4. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-DRF-token](https://github.com/bert0h-dev/django-DRF-token)<br>
 5. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-crud-react](https://github.com/bert0h-dev/django-crud-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
@@ -66,5 +66,5 @@ class Learning extends SoftwareDeveloper {
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, April 28th, 2025, 5:57:32 AM
+Ultima actualización: Monday, April 28th, 2025, 10:29:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
