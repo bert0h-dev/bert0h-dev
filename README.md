@@ -48,11 +48,11 @@ class Learning extends SoftwareDeveloper {
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
-2. 🎯 Empezó un nuevo proyecto: [bert0h-dev/menvitta-frontend](https://github.com/bert0h-dev/menvitta-frontend). ¡A romperla! 🔥<br>
-3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend). ¡A romperla! 🔥<br>
-4. ⬆️ Subió 1 commit(s) a [bert0h-dev/django-react-fullstack](https://github.com/bert0h-dev/django-react-fullstack)<br>
-5. ⭐ Dio estrella a [jhan07-sanchez/My_Red_Social](https://github.com/jhan07-sanchez/My_Red_Social)<br>
+1. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
+2. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
+3. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
+4. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
+5. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -66,5 +66,5 @@ class Learning extends SoftwareDeveloper {
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Wednesday, April 30th, 2025, 5:48:19 AM
+Ultima actualización: Thursday, May 1st, 2025, 5:47:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
