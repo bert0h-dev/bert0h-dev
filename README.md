@@ -1,35 +1,49 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=33D6D6&center=true&vCenter=true&width=1000&lines=Hey+there!+Welcome+to+my+GitHub+Profile!)
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp;Hi, I'm Jesús Humberto Morales
+</h2>
 
 <p align="center">
   <img style="width:100%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bert0h-dev.bert0h-dev)
+
 ## 👨🏻‍💻 &nbsp;About Me
 
-```javascript
-import SoftwareDeveloper from "HumbertoMorales1416";
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-class Bio extends SoftwareDeveloper {
-  name = "Jesús Humberto Morales Mojica";
-  title = "Software Engineer";
-  company = "🚚 GM Transport | Remote";
-  location = "Rosarito, Baja California";
-}
+class SoftwareEngineer
 
-class Skills extends SoftwareDeveloper {
-  languages = ["HTML", "SCSS/CSS", "JavaScript - Basic", "C#", "WLanguage"];
-  databases = ["T-SQL"];
-  frameworks = [".NET"];
-  version = ["Git", "GitHub", "TortoiseSVN"];
-}
+  def __init__(self):
+    self.username = 'bert0h-dev'
+    self.name = 'Jesús Humberto Morales Mojica'
+    self.role = 'Software Engineer'
+    self.company = 'GM Transport | Remote'
+    self.location = 'Rosarito, Baja California'
+    self.skills = {
+      "backend": ['C#', 'WLanguage']
+      "databases": ['T-SQL']
+      "frontend": ['HTML', 'SCSS/CSS', 'JavaScript - Basic', '.NET']
+      "tools": ['Git', 'GitHub', 'TortoiseSVN']
+    }
+    self.learning = {
+      "backend": ['Python', 'Django', 'NodeJS', 'Go']
+      "databases": ['PostgreSQL', 'MongoDB']
+      "devops" = ['Docker']
+      "frontend" = ['Javascript', 'TypeScript', 'ReactJS']
+      'tools': ['Nginx']      
+    }
 
-class Learning extends SoftwareDeveloper {
-  languages = ["Javascript", "TypeScript", "Python", "Go"];
-  databases = ["MongoDB", "PostgreSQL"];
-  frameworks = ["ReactJS", "Django", "Angular"];
-  devops = ["Docker"];
-}
+  def say_hi(self):
+    print("Thanks for dropping by, hope you find some of my work interesting.")
+
+if __name__ == '__main__':
+  me = SoftwareEngineer()
+  me.say_hi()
+
 ```
 
 ## 🌐 Social
@@ -48,17 +62,11 @@ class Learning extends SoftwareDeveloper {
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP)<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
-4. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
-5. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-docs](https://github.com/bert0h-dev/menvitta-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
 
-![GitHub Stats](./assets/stats.svg)  
-![Top Languages](./assets/langs.svg)
+![GitHub Stats](./assets/stats.svg)&nbsp;&nbsp;&nbsp;![Top Languages](./assets/langs.svg)
 
 ## 🚀 Principales Repos
 
@@ -66,5 +74,4 @@ class Learning extends SoftwareDeveloper {
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, May 3rd, 2025, 5:43:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
