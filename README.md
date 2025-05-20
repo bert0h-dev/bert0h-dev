@@ -62,9 +62,9 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [prisma/docs](https://github.com/prisma/docs)<br>
-2. ⭐ Dio estrella a [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
+1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud). ¡A romperla! 🔥<br>
+2. ⭐ Dio estrella a [prisma/docs](https://github.com/prisma/docs)<br>
+3. ⭐ Dio estrella a [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)<br>
 4. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
 5. ⬆️ Subió 1 commit(s) a [bert0h-dev/menvitta-backend](https://github.com/bert0h-dev/menvitta-backend)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, May 19th, 2025, 5:52:17 AM
+Ultima actualización: Tuesday, May 20th, 2025, 5:52:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
