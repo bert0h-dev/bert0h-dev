@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud)<br>
+1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/nestjs-course](https://github.com/bert0h-dev/nestjs-course). ¡A romperla! 🔥<br>
 2. ⬆️ Subió 1 commit(s) a [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud)<br>
-3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud). ¡A romperla! 🔥<br>
-4. ⭐ Dio estrella a [prisma/docs](https://github.com/prisma/docs)<br>
-5. ⭐ Dio estrella a [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox)<br>
+3. ⬆️ Subió 1 commit(s) a [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud)<br>
+4. 🎯 Empezó un nuevo proyecto: [bert0h-dev/nextjs-prisma-crud](https://github.com/bert0h-dev/nextjs-prisma-crud). ¡A romperla! 🔥<br>
+5. ⭐ Dio estrella a [prisma/docs](https://github.com/prisma/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, May 22nd, 2025, 5:51:32 AM
+Ultima actualización: Friday, May 23rd, 2025, 5:49:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
