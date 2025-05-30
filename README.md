@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/nestjs-auth-jwt](https://github.com/bert0h-dev/nestjs-auth-jwt)<br>
+1. ⭐ Dio estrella a [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)<br>
 2. ⬆️ Subió 1 commit(s) a [bert0h-dev/nestjs-auth-jwt](https://github.com/bert0h-dev/nestjs-auth-jwt)<br>
-3. ⭐ Dio estrella a [brocoders/extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate)<br>
-4. ⭐ Dio estrella a [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate)<br>
-5. ⭐ Dio estrella a [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+3. ⬆️ Subió 1 commit(s) a [bert0h-dev/nestjs-auth-jwt](https://github.com/bert0h-dev/nestjs-auth-jwt)<br>
+4. ⭐ Dio estrella a [brocoders/extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate)<br>
+5. ⭐ Dio estrella a [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, May 29th, 2025, 5:50:41 AM
+Ultima actualización: Friday, May 30th, 2025, 5:50:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
