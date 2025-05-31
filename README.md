@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/nestjs-auth-jwt](https://github.com/bert0h-dev/nestjs-auth-jwt)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/nestjs-auth-jwt](https://github.com/bert0h-dev/nestjs-auth-jwt)<br>
-4. ⭐ Dio estrella a [brocoders/extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate)<br>
-5. ⭐ Dio estrella a [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate)<br>
+1. ⭐ Dio estrella a [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
+2. ⭐ Dio estrella a [Zero-Calendar/zero-calendar](https://github.com/Zero-Calendar/zero-calendar)<br>
+3. ⭐ Dio estrella a [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+4. ⭐ Dio estrella a [PushoDev/proyecto-inventario](https://github.com/PushoDev/proyecto-inventario)<br>
+5. ⭐ Dio estrella a [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Friday, May 30th, 2025, 5:50:44 AM
+Ultima actualización: Saturday, May 31st, 2025, 5:45:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
