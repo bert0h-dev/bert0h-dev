@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
-2. ⭐ Dio estrella a [Zero-Calendar/zero-calendar](https://github.com/Zero-Calendar/zero-calendar)<br>
-3. ⭐ Dio estrella a [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
-4. ⭐ Dio estrella a [PushoDev/proyecto-inventario](https://github.com/PushoDev/proyecto-inventario)<br>
-5. ⭐ Dio estrella a [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)<br>
+1. ⭐ Dio estrella a [SAP/openui5](https://github.com/SAP/openui5)<br>
+2. ⭐ Dio estrella a [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
+3. ⭐ Dio estrella a [Zero-Calendar/zero-calendar](https://github.com/Zero-Calendar/zero-calendar)<br>
+4. ⭐ Dio estrella a [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+5. ⭐ Dio estrella a [PushoDev/proyecto-inventario](https://github.com/PushoDev/proyecto-inventario)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, June 14th, 2025, 5:46:37 AM
+Ultima actualización: Sunday, June 15th, 2025, 5:47:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
