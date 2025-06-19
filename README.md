@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [GuilleRiva/E-commerce](https://github.com/GuilleRiva/E-commerce)<br>
-2. ⭐ Dio estrella a [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)<br>
-3. ⭐ Dio estrella a [SAP/openui5](https://github.com/SAP/openui5)<br>
-4. ⭐ Dio estrella a [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
-5. ⭐ Dio estrella a [Zero-Calendar/zero-calendar](https://github.com/Zero-Calendar/zero-calendar)<br>
+1. ⭐ Dio estrella a [The-Enigma-Casino/The-Enigma-Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino)<br>
+2. ⭐ Dio estrella a [GuilleRiva/E-commerce](https://github.com/GuilleRiva/E-commerce)<br>
+3. ⭐ Dio estrella a [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)<br>
+4. ⭐ Dio estrella a [SAP/openui5](https://github.com/SAP/openui5)<br>
+5. ⭐ Dio estrella a [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Wednesday, June 18th, 2025, 5:52:58 AM
+Ultima actualización: Thursday, June 19th, 2025, 5:52:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
