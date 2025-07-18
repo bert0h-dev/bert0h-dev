@@ -65,8 +65,6 @@ if __name__ == '__main__':
 1. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
 2. ⭐ Dio estrella a [tonodevep/learn-english](https://github.com/tonodevep/learn-english)<br>
 3. ⭐ Dio estrella a [The-Enigma-Casino/The-Enigma-Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino)<br>
-4. ⭐ Dio estrella a [GuilleRiva/E-commerce](https://github.com/GuilleRiva/E-commerce)<br>
-5. ⭐ Dio estrella a [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +77,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, July 17th, 2025, 5:55:07 AM
+Ultima actualización: Friday, July 18th, 2025, 5:55:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
