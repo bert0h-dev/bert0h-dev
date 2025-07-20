@@ -62,8 +62,9 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
-2. ⭐ Dio estrella a [tonodevep/learn-english](https://github.com/tonodevep/learn-english)<br>
+1. ⭐ Dio estrella a [nhn/tui.calendar](https://github.com/nhn/tui.calendar)<br>
+2. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
+3. ⭐ Dio estrella a [tonodevep/learn-english](https://github.com/tonodevep/learn-english)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +77,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, July 19th, 2025, 5:50:30 AM
+Ultima actualización: Sunday, July 20th, 2025, 5:50:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
