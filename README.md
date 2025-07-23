@@ -63,10 +63,10 @@ if __name__ == '__main__':
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Subió 1 commit(s) a [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal)<br>
-2. 🎯 Empezó un nuevo proyecto: [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal). ¡A romperla! 🔥<br>
-3. ⭐ Dio estrella a [nhn/tui.calendar](https://github.com/nhn/tui.calendar)<br>
-4. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
-5. ⭐ Dio estrella a [tonodevep/learn-english](https://github.com/tonodevep/learn-english)<br>
+2. ⬆️ Subió 1 commit(s) a [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal)<br>
+3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal). ¡A romperla! 🔥<br>
+4. ⭐ Dio estrella a [nhn/tui.calendar](https://github.com/nhn/tui.calendar)<br>
+5. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Tuesday, July 22nd, 2025, 5:56:23 AM
+Ultima actualización: Wednesday, July 23rd, 2025, 5:56:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
