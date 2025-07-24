@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal)<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal)<br>
-3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/VistaCal](https://github.com/bert0h-dev/VistaCal). ¡A romperla! 🔥<br>
-4. ⭐ Dio estrella a [nhn/tui.calendar](https://github.com/nhn/tui.calendar)<br>
-5. ⭐ Dio estrella a [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)<br>
+1. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+2. ⬆️ Subió 2 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+3. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+4. ⬆️ Subió 2 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+5. ⬆️ Subió 4 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Wednesday, July 23rd, 2025, 5:56:46 AM
+Ultima actualización: Thursday, July 24th, 2025, 5:56:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
