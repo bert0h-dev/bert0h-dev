@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
-3. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
-4. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
-5. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+1. ⭐ Dio estrella a [charlietlamb/calendar](https://github.com/charlietlamb/calendar)<br>
+2. ⭐ Dio estrella a [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
+3. ⭐ Dio estrella a [tutao/tutanota](https://github.com/tutao/tutanota)<br>
+4. ⭐ Dio estrella a [BG-Software-BG/design-resources-for-developers](https://github.com/BG-Software-BG/design-resources-for-developers)<br>
+5. ⭐ Dio estrella a [tabler/tabler-icons](https://github.com/tabler/tabler-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, August 2nd, 2025, 5:51:49 AM
+Ultima actualización: Sunday, August 3rd, 2025, 5:54:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
