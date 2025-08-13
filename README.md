@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
-2. ⭐ Dio estrella a [charlietlamb/calendar](https://github.com/charlietlamb/calendar)<br>
-3. ⭐ Dio estrella a [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x)<br>
-4. ⭐ Dio estrella a [tutao/tutanota](https://github.com/tutao/tutanota)<br>
-5. ⭐ Dio estrella a [BG-Software-BG/design-resources-for-developers](https://github.com/BG-Software-BG/design-resources-for-developers)<br>
+1. ⬆️ Subió 3 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
+2. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS). ¡A romperla! 🔥<br>
+4. ⬆️ Subió 1 commit(s) a [bert0h-dev/Loopr](https://github.com/bert0h-dev/Loopr)<br>
+5. ⭐ Dio estrella a [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Tuesday, August 12th, 2025, 5:53:52 AM
+Ultima actualización: Wednesday, August 13th, 2025, 5:54:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
