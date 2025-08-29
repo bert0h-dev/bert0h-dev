@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Empezó un nuevo proyecto: [bert0h-dev/Docs](https://github.com/bert0h-dev/Docs). ¡A romperla! 🔥<br>
-2. ⬆️ Subió 1 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
-3. ⬆️ Subió 5 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
-4. ⬆️ Subió 4 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
-5. ⬆️ Subió 4 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
+1. ⭐ Dio estrella a [xOkimurax/Reservas](https://github.com/xOkimurax/Reservas)<br>
+2. ⭐ Dio estrella a [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)<br>
+3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/Docs](https://github.com/bert0h-dev/Docs). ¡A romperla! 🔥<br>
+4. ⬆️ Subió 1 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
+5. ⬆️ Subió 5 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, August 28th, 2025, 5:12:16 AM
+Ultima actualización: Friday, August 29th, 2025, 5:12:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
