@@ -65,8 +65,6 @@ if __name__ == '__main__':
 1. ⭐ Dio estrella a [xOkimurax/Reservas](https://github.com/xOkimurax/Reservas)<br>
 2. ⭐ Dio estrella a [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)<br>
 3. 🎯 Empezó un nuevo proyecto: [bert0h-dev/Docs](https://github.com/bert0h-dev/Docs). ¡A romperla! 🔥<br>
-4. ⬆️ Subió 1 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
-5. ⬆️ Subió 5 commit(s) a [bert0h-dev/CaLooprJS](https://github.com/bert0h-dev/CaLooprJS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +77,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Friday, September 19th, 2025, 5:12:44 AM
+Ultima actualización: Saturday, September 20th, 2025, 5:11:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
