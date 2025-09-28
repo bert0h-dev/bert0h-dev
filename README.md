@@ -62,8 +62,6 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [xOkimurax/Reservas](https://github.com/xOkimurax/Reservas)<br>
-2. ⭐ Dio estrella a [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +74,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, September 27th, 2025, 5:10:45 AM
+Ultima actualización: Sunday, September 28th, 2025, 5:10:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
