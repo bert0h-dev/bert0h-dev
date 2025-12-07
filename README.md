@@ -63,7 +63,6 @@ if __name__ == '__main__':
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Dio estrella a [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)<br>
-2. ⭐ Dio estrella a [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +75,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, December 6th, 2025, 5:11:57 AM
+Ultima actualización: Sunday, December 7th, 2025, 5:11:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
