@@ -63,7 +63,6 @@ if __name__ == '__main__':
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Dio estrella a [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)<br>
-2. ⭐ Dio estrella a [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +75,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, December 15th, 2025, 5:14:37 AM
+Ultima actualización: Tuesday, December 16th, 2025, 5:14:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
