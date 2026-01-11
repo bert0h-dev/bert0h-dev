@@ -63,7 +63,6 @@ if __name__ == '__main__':
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Dio estrella a [eduvoice873/EduVoiceCms](https://github.com/eduvoice873/EduVoiceCms)<br>
-2. ⭐ Dio estrella a [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +75,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Saturday, January 10th, 2026, 5:12:29 AM
+Ultima actualización: Sunday, January 11th, 2026, 5:13:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
