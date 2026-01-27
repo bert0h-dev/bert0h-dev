@@ -62,9 +62,9 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
-2. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
-3. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
+1. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
+2. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
+3. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
 4. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
 5. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, January 26th, 2026, 5:15:50 AM
+Ultima actualización: Tuesday, January 27th, 2026, 5:15:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
