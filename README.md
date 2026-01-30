@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [mohamedibourki/blog](https://github.com/mohamedibourki/blog)<br>
-2. ⭐ Dio estrella a [wrappixel/MaterialM-Tailwind-Nextjs-Free](https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free)<br>
-3. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
+1. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
+2. ⭐ Dio estrella a [mohamedibourki/blog](https://github.com/mohamedibourki/blog)<br>
+3. ⭐ Dio estrella a [wrappixel/MaterialM-Tailwind-Nextjs-Free](https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free)<br>
 4. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
-5. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
+5. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, January 29th, 2026, 5:19:09 AM
+Ultima actualización: Friday, January 30th, 2026, 5:18:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
