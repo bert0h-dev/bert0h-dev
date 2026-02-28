@@ -65,8 +65,6 @@ if __name__ == '__main__':
 1. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
 2. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage](https://github.com/bert0h-dev/BusManage)<br>
 3. ⭐ Dio estrella a [mohamedibourki/blog](https://github.com/mohamedibourki/blog)<br>
-4. ⭐ Dio estrella a [wrappixel/MaterialM-Tailwind-Nextjs-Free](https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free)<br>
-5. ⬆️ Subió undefined commit(s) a [bert0h-dev/BusManage-API](https://github.com/bert0h-dev/BusManage-API)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +77,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Friday, February 27th, 2026, 5:19:21 AM
+Ultima actualización: Saturday, February 28th, 2026, 5:14:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
