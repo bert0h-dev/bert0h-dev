@@ -64,7 +64,6 @@ if __name__ == '__main__':
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Dio estrella a [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 2. ⭐ Dio estrella a [moeru-ai/airi](https://github.com/moeru-ai/airi)<br>
-3. ⭐ Dio estrella a [TheLampT/Gestor-gastos](https://github.com/TheLampT/Gestor-gastos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -77,5 +76,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Sunday, April 5th, 2026, 5:19:13 AM
+Ultima actualización: Monday, April 6th, 2026, 5:27:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
