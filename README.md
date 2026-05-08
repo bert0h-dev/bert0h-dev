@@ -63,8 +63,6 @@ if __name__ == '__main__':
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Dio estrella a [SebastianFacundoBalbuena/APIRest-Sistema-Bancario-Digital--JAVA-SpringBoot](https://github.com/SebastianFacundoBalbuena/APIRest-Sistema-Bancario-Digital--JAVA-SpringBoot)<br>
-2. ⭐ Dio estrella a [eamanu/Lo-que-todo-programador-debe-saber](https://github.com/eamanu/Lo-que-todo-programador-debe-saber)<br>
-3. ⭐ Dio estrella a [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -77,5 +75,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, May 7th, 2026, 5:49:17 AM
+Ultima actualización: Friday, May 8th, 2026, 5:41:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
