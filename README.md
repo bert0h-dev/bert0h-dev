@@ -62,8 +62,6 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Dio estrella a [acano99/dix](https://github.com/acano99/dix)<br>
-2. ⭐ Dio estrella a [acano99/flux_retro_ui](https://github.com/acano99/flux_retro_ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -76,5 +74,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Sunday, October 11th, 2026, 10:35:16 AM
+Ultima actualización: Monday, October 12th, 2026, 2:08:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
