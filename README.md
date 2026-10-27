@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió undefined commit(s) a [bert0h-dev/hoteleria](https://github.com/bert0h-dev/hoteleria)<br>
-2. ⬆️ Subió undefined commit(s) a [bert0h-dev/hoteleria](https://github.com/bert0h-dev/hoteleria)<br>
-3. ⬆️ Subió undefined commit(s) a [bert0h-dev/hoteleria](https://github.com/bert0h-dev/hoteleria)<br>
-4. 📬 Abrió un pull request [#23](undefined) en [bert0h-dev/hoteleria](https://github.com/bert0h-dev/hoteleria)<br>
-5. 📬 Abrió un pull request [#22](undefined) en [bert0h-dev/hoteleria](https://github.com/bert0h-dev/hoteleria)<br>
+1. 📬 Abrió un pull request [#6](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+2. 📬 Abrió un pull request [#5](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+3. 📬 Abrió un pull request [#4](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+4. 📬 Abrió un pull request [#3](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+5. 📬 Abrió un pull request [#2](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, October 26th, 2026, 11:33:35 AM
+Ultima actualización: Tuesday, October 27th, 2026, 10:49:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
