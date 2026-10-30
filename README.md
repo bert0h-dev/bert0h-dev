@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+1. 📬 Abrió un pull request [#27](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 2. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-3. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-4. 📬 Abrió un pull request [#22](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-5. 📬 Abrió un pull request [#21](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+3. 📬 Abrió un pull request [#26](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+4. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+5. 📬 Abrió un pull request [#25](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Thursday, October 29th, 2026, 11:18:14 AM
+Ultima actualización: Friday, October 30th, 2026, 10:53:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
