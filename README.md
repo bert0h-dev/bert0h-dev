@@ -62,11 +62,11 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. 📬 Abrió un pull request [#27](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-2. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-3. 📬 Abrió un pull request [#26](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-4. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-5. 📬 Abrió un pull request [#25](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+1. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+2. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
+3. 📬 Abrió un pull request [#1](undefined) en [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
+4. 📬 Abrió un pull request [#39](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+5. 📬 Abrió un pull request [#38](undefined) en [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Friday, October 30th, 2026, 10:53:59 AM
+Ultima actualización: Saturday, October 31st, 2026, 10:06:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
