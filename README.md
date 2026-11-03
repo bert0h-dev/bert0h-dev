@@ -62,9 +62,9 @@ if __name__ == '__main__':
 🔽 Últimos movimientos técnicos:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-2. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
-3. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+1. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
+2. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
+3. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
 4. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 5. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 <!--RECENT_ACTIVITY:end-->
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Monday, November 2nd, 2026, 2:36:40 PM
+Ultima actualización: Tuesday, November 3rd, 2026, 12:20:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
