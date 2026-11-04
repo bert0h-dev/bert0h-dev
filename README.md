@@ -65,7 +65,7 @@ if __name__ == '__main__':
 1. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
 2. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
 3. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
-4. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
+4. ⬆️ Subió undefined commit(s) a [bert0h-dev/django-erp](https://github.com/bert0h-dev/django-erp)<br>
 5. ⬆️ Subió undefined commit(s) a [bert0h-dev/camionera](https://github.com/bert0h-dev/camionera)<br>
 <!--RECENT_ACTIVITY:end-->
 
@@ -79,5 +79,5 @@ if __name__ == '__main__':
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
-Ultima actualización: Tuesday, November 3rd, 2026, 12:20:26 PM
+Ultima actualización: Wednesday, November 4th, 2026, 12:37:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
